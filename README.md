@@ -1,5 +1,5 @@
 ## Hi there 👋
-### [Please check my other GitHub account](github.com/MetehanOzyurek)
+### [Please check my other GitHub account](https://github.com/MetehanOzyurek)
 <!--
 **metehanc8s9/metehanc8s9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
